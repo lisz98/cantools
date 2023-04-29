@@ -1,0 +1,4 @@
+HEADERS += \
+    $$PWD/appdata.h
+
+
